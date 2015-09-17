@@ -3,9 +3,11 @@ Sergio Yaksic
 
 -----------------------------
 
-- Mail: seanyabe@gmail.com   
-- Nick: syaksic
-- Cel: 81301328
+- Mail01: seanyabe@gmail.com 
+- Mail02: syaksic@hotmail.com 
+- MailUSM: sergio.yaksic@postgrado.usm.cl   
+- fb: [syaksic](fb.com/syaksic)
+- Git: [syaksic](https://github.com/syaksic)
 
 -----------------------------
 
