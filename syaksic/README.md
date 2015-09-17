@@ -3,7 +3,7 @@ Sergio Yaksic
 
 -----------------------------
 - Mail: seanyabe@gmail.com   
-- Nick: syaksic              
+- Nick: syaksic
 - Cel: 81301328                  
 -----------------------------
 
